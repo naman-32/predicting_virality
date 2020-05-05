@@ -18,5 +18,6 @@ sudo apt-get update  (to update ubuntu to correctly run apt install)
 sudo apt install chromium-chromedriver
 cp /usr/lib/chromium-browser/chromedriver /usr/bin
 pip install python-dateutil 
+pip install webdriver-manager
 ```
 
