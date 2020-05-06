@@ -5,6 +5,7 @@
 ```
 sudo apt-get install python3-pip
 sudo apt-get install python-dev
+sudo apt-get install libxml2-dev libxslt-dev
 sudo apt-get install libjpeg-dev zlib1g-dev libpng-dev
 sudo apt install curl
 curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
